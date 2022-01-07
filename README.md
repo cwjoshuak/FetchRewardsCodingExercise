@@ -7,9 +7,10 @@ The `RecyclerView` is sectioned off into multiple sections based on the total nu
 ## Build Instructions
 
 1. Clone the repo.
-2. Open the project in Android Studio. 3. Sync gradle.
-3. Set up your device or emulator first!
-4. Build and run the application.
+2. Open the project in Android Studio. 
+3. Sync gradle.
+4. Set up your device or emulator first!
+5. Build and run the application.
 
 The project was tested on the `Pixel_3a API_32_arm64-v8a` simulator running on `Android API 32`.
 
