@@ -19,8 +19,10 @@ The project was tested on the `Pixel_3a API_32_arm64-v8a` simulator running on `
 - [OkHttp](https://square.github.io/okhttp/)
 
 ## Screenshots
+<div>
+  <img src="/screenshots/ss1.png" alt="Section 1" width="23%"/>
+  <img src="/screenshots/ss2.png" alt="Section 2" width="23%"/>
+  <img src="/screenshots/ss3.png" alt="Section 3" width="23%"/>
+  <img src="/screenshots/ss4.png" alt="Section 4" width="23%"/>
+</div>
 
-![Section 1](./screenshots/ss1.png)
-![Section 2](./screenshots/ss2.png)
-![Section 3](./screenshots/ss3.png)
-![Section 4](./screenshots/ss4.png)
